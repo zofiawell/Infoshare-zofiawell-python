@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# InfoShareFiles
+Python podstawowy - zakres.docx
+secrets/
+*.ipynb_checkpoints
+*.idea/
+*Day?\ pliki
+*Day?Model\ pliki
